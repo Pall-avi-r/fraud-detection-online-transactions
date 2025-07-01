@@ -13,7 +13,7 @@ The dataset is from [Kaggle Fraud Detection Dataset](https://www.kaggle.com/data
 ## How to run
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter notebook `fraud_detection.ipynb`
+3. Run the Jupyter notebook `MI Fraud Detection in online Coding.ipynb`
 
 ## Author
 Pallavi R  
